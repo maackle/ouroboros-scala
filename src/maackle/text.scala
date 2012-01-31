@@ -1,0 +1,7 @@
+package maackle
+
+
+
+object text {
+
+}

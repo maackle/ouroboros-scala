@@ -1,0 +1,3 @@
+[submodule "src/maackle"]
+	path = src/maackle
+	url = git@github.com:maackle/maackle-scala.git
